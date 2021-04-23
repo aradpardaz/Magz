@@ -3,6 +3,9 @@
 # Magz
 Magz is a HTML5 & CSS3 magazine template is based on Bootstrap 3. This template was made with  by Kodinger Team. This template is released under the MIT License, free for personal and commercial use without any attribution. Just share this template with your friends.
 
+**Demo:**
+https://aradpardaz.github.io/Magz/
+
 ![magz preview](https://raw.githubusercontent.com/nauvalazhar/Magz/master/images/preview.png "Magz Preview")
 
 
