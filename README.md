@@ -52,8 +52,11 @@ Let's make it easy! Just download this template, use it on your project.
 - IE 11+
 - Microsoft Edge
 
-# Report Some Bugs
-Find a Bug? Please, create an issue and we'll fix it together for a better template.
+# Our Website
+[Delgarm](https://www.delgarm.com/)
+[Soorban](https://www.soorban.com/)
+[newslaw](https://www.newslaw.net/)
+[tamimkhabar](https://www.tamimkhabar.ir/)
 
 # Credits
 Some components in magz are created by us, but most of them are made by some authors of these plugins, images and fonts. So thank them too. For making something amazing.
