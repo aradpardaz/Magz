@@ -4,7 +4,7 @@ Magz is a HTML5 & CSS3 magazine template is based on Bootstrap 3. This template 
 **Demo:**
 https://aradpardaz.github.io/Magz/
 
-![codepen](https://codepen.io/aradpardaz/full/oNBJrZQ)
+[codepen](https://codepen.io/aradpardaz/full/oNBJrZQ)
 
 ![magz preview](https://raw.githubusercontent.com/nauvalazhar/Magz/master/images/preview.png "Magz Preview")
 
